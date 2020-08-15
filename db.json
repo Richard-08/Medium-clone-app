@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": "123456",
+      "role": "writer",
+      "name": "John Smith"
+    },
+    {
+      "id": 2,
+      "login": "writer@mail.com",
+      "password": "123456",
+      "role": "writer",
+      "name": "Richard Feynman"
+    },
+    {
+      "id": 3,
+      "login": "reader@mail.com",
+      "password": "123456",
+      "role": "reader",
+      "name": "John Doe"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni.",
+      "claps": 30,
+      "createAt": "2019-09-29",
+      "updatedAt": "2019-09-29",
+      "userId": 2,
+      "authorName": "Richard Feynman"
+    },
+    {
+      "title": "New post",
+      "description": "Hi everyone!",
+      "id": 1597430058202,
+      "claps": 12,
+      "createAt": "2020-08-14T18:34:18.202Z",
+      "updatedAt": "2020-08-14T18:38:19.925Z",
+      "userId": 1,
+      "authorName": "John Smith"
+    },
+    {
+      "id": 3,
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni.",
+      "claps": 28,
+      "createAt": "2019-09-29",
+      "updatedAt": "2019-09-29",
+      "userId": 2,
+      "authorName": "Richard Feynman"
+    },
+    {
+      "title": "New Post",
+      "description": "Hello everybody!",
+      "id": 1597479394419,
+      "claps": 1,
+      "createAt": "2020-08-15T08:16:34.419Z",
+      "updatedAt": "2020-08-15T08:16:34.419Z",
+      "userId": 1,
+      "authorName": "John Smith"
+    },
+    {
+      "id": 4,
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni.",
+      "claps": 28,
+      "createAt": "2019-09-29",
+      "updatedAt": "2019-09-29",
+      "userId": 2,
+      "authorName": "Richard Feynman"
+    },
+    {
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni. ",
+      "id": 1597479452204,
+      "claps": 1,
+      "createAt": "2020-08-15T08:17:32.204Z",
+      "updatedAt": "2020-08-15T08:17:32.204Z",
+      "userId": 1,
+      "authorName": "John Smith"
+    },
+    {
+      "id": 5,
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni.",
+      "claps": 28,
+      "createAt": "2019-09-29",
+      "updatedAt": "2019-09-29",
+      "userId": 2,
+      "authorName": "Richard Feynman"
+    },
+    {
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni. ",
+      "id": 1597479458435,
+      "claps": 1,
+      "createAt": "2020-08-15T08:17:38.435Z",
+      "updatedAt": "2020-08-15T08:17:38.435Z",
+      "userId": 1,
+      "authorName": "John Smith"
+    },
+    {
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni. ",
+      "id": 1597479464163,
+      "claps": 1,
+      "createAt": "2020-08-15T08:17:44.163Z",
+      "updatedAt": "2020-08-15T08:17:44.163Z",
+      "userId": 1,
+      "authorName": "John Smith"
+    },
+    {
+      "id": 6,
+      "title": "Post title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque error vel omnis unde deserunt quibusdam atque sapiente molestias magni, doloribus iste voluptate exercitationem dolorem minima corporis maiores reprehenderit? A, magni.",
+      "claps": 28,
+      "createAt": "2019-09-29",
+      "updatedAt": "2019-09-29",
+      "userId": 2,
+      "authorName": "Richard Feynman"
+    },
+    {
+      "title": "New post",
+      "description": "Some text...",
+      "id": 1597493405851,
+      "claps": 0,
+      "createAt": "2020-08-15T12:10:05.851Z",
+      "updatedAt": "2020-08-15T12:10:05.851Z",
+      "userId": 1,
+      "authorName": "John Smith"
+    }
+  ]
+}
